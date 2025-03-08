@@ -55,8 +55,12 @@ After training, models will be evaluated using accuracy, precision, recall, F1-s
 
 OUTPUT SCREENS
 
-![Image](https://github.com/user-attachments/assets/a0869b08-dc51-4211-92f6-cbc290ff91f1)
-![Image](https://github.com/user-attachments/assets/43048143-4dbf-48b5-9612-abb59364cb84)
-![Image](https://github.com/user-attachments/assets/fa41a1a7-537b-4202-bbf9-317aafe15c69)
-![Image](https://github.com/user-attachments/assets/24b785c9-719c-451c-a610-4fc08c21ecfd)
 ![Image](https://github.com/user-attachments/assets/5fe1656c-2538-4cc6-856b-c1f592259c81)
+![Image](https://github.com/user-attachments/assets/24b785c9-719c-451c-a610-4fc08c21ecfd)
+![Image](https://github.com/user-attachments/assets/fa41a1a7-537b-4202-bbf9-317aafe15c69)
+![Image](https://github.com/user-attachments/assets/43048143-4dbf-48b5-9612-abb59364cb84)
+![Image](https://github.com/user-attachments/assets/a0869b08-dc51-4211-92f6-cbc290ff91f1)
+
+
+
+
