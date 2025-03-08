@@ -1,18 +1,16 @@
 # End-to-End-Data-science-Sleep-Disorder-Prediction
 
-COMPANY : CODETECH IT SOLUTIONS
+# COMPANY : CODETECH IT SOLUTIONS
 
-NAME : CHIDURALA MOUNYA SAI
+# NAME : CHIDURALA MOUNYA SAI
 
-INTERN ID : CT08OPZ
+# INTERN ID : CT08OPZ
 
-DOMAIN : DATA SCIENCE
+# DOMAIN : DATA SCIENCE
 
-DURATION : 4 WEEKS
+# DURATION : 4 WEEKS
 
-MENTOR : NEELA SANTOSH
-
-
+# MENTOR : NEELA SANTOSH
 
 
 # Sleep Disorder Prediction Using Machine Learning
@@ -28,6 +26,7 @@ Feature Selection & Engineering – Extract relevant features that contribute to
 Machine Learning Model Development – Train and evaluate classification models such as Logistic Regression, Decision Trees, Random Forest, and Support Vector Machines (SVM).
 Model Optimization – Tune hyperparameters to improve prediction accuracy.
 Performance Evaluation – Assess model accuracy, precision, recall, and F1-score to ensure reliability.
+
 # Why is Sleep Disorder Prediction Important?
 ✔ Early Diagnosis – Helps individuals recognize sleep-related issues before they become severe.
 ✔ Improved Healthcare – Assists doctors in diagnosing and treating patients effectively.
